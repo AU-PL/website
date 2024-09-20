@@ -25,11 +25,12 @@ a wide range of programming languages in a simplified setting.
 
 Topics include:
 
-- Functional Programming Primer
+- OCaml Primer
   - Names, Functions, Types
   - Recursive Functions and their Evaluation
   - Performance and Optimization of Recursive Functions
   - Algebraic Datatypes
+  - Object-Oriented Programming
 - PL Design and Implementation 
   - Concrete Syntax
   - Inductive Definitions
