@@ -37,9 +37,8 @@ toc: false
 
 - Week 4: 9/2 - 9/6
   - M: No Class (Labor Day)
-  - W: [Functional Programming: A Brief Introduction](includes/lecture-notes/slides/7-FP.pdf)
+  - W: [Functional Programming: A Brief Introduction](includes/lecture-notes/slides/6-FP.pdf)
     - Topics: lambda-abstractions, higher-order functions, combinators
-  - Homework 2: TBA
 
 ---
 
@@ -52,46 +51,54 @@ toc: false
 - Week 6: 9/16 - 9/20
   - M: [OOP in OCaml](includes/lecture-notes/slides/7-OOP.pdf)
     
-  - W: Concrete Syntax: The UI for PLs and Static and Dynamic Semantics: Analysis and Evaluation of Programs
-    - Topics: Type checking and running programs.  
+  - W: Concrete Syntax: The UI for PLs and Static and Dynamic Semantics: Analysis and Evaluation of Programs    
     - Topics: concrete syntax, abstract syntax, parsing, context-free grammars, ambiguity, parse trees
-  - Homework 3: TBA
+  - Homework 2 Released
 
 ---
 
 - Week 7: 9/23 - 9/27
-  - M: Abstract Syntax
-    - Topics: Internal representation of a PL by a compiler.  
-  - W: Inductive Definitions: Inference Rules, Deductions, Logic Programming
+  - M: [Concrete Syntax](includes/lecture-notes/slides/8-concrete-syntax.pdf) / [Inductive Definitions: Inference Rules, Deductions, Logic Programming](includes/lecture-notes/slides/9-inductive-defs.pdf)
+    - Topics: concrete syntax, abstract syntax, parsing, context-free grammars, ambiguity, parse trees    
     - Topics: The tool we use to specify algorithms used by a PL, and we also introduce Logic Programming.        
-    
+  - W: Examples    
+  - Homework 3: TBA
+
 ---
 
 - Week 8: Midterm: 9/30 - 10/4
-  - M: Midterm Exam.
-  - W: Midterm Exam.
-  - Midterm: TBA
+  - M: Abstract Syntax
+    - Topics: Internal representation of a PL by a compiler.  
+  - W: Introducing a small PL: miniOCaml
+    - Topics: miniOCaml is a small PL we will define and implement together.  
   
 ---
 
-- Week 9: 10/7 - 10/11
-  - M: Introducing a small PL: miniOCaml
+- Week 9: 10/07 - 10/11
+  - M: [Abstract Syntax](includes/lecture-notes/slides/10-abstract-syntax.pdf)
+    - Topics: Internal representation of a PL by a compiler.  
+    - Video: [YouTube](https://youtu.be/tdmBzqixuNk)
+  - W: Introducing a small PL: miniOCaml
     - Topics: miniOCaml is a small PL we will define and implement together.  
-  - W: Type Safety: Well Typed Programs Don't Go Wrong!
-    - MiniOCaml: Add a small step semantics with arbitrary recursion.
-    - Topics: A very important property of a PL.    
-- Project: Start Date
+
+---
+
+- Week 9: 10/14 - 10/18
+  - M: Midterm Exam.
+  - W: Midterm Exam 
+  - Project: Start Date
     - Schedule Project Meeting
+
+<!--
 
 ---
 
 - Week 10: 10/14 - 10/18
-  - M: Abstract Machines
-    - Topics: Specifying and implementing the evaluation programs.  We will define an abstract machine for miniOCaml.    
-  - W: Adding new structure to a PL.
-    - Topics: We will discuss how adding new structures to a PL is
-      done and how it ripples through the design.  As an example we
-      will add some new types to miniOCaml.
+  - M: Type Safety: Well Typed Programs Don't Go Wrong!
+    - MiniOCaml: Add a small step semantics with arbitrary recursion.
+    - Topics: A very important property of a PL.    
+  - W: Abstract Machines
+    - Topics: Specifying and implementing the evaluation programs.  We will define an abstract machine for miniOCaml.      
   - Homework 4: TBA
 
 ---
@@ -178,4 +185,7 @@ miniOCaml to support call-by-need.
 
 - Week 18: 12/9 - 12/13
   - T (12/10): Project Presentations (Final Exam)
+
+-->
+
 

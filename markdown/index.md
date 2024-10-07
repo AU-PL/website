@@ -102,7 +102,7 @@ following scoring tables:
 All homework is to be turned in via your private Git repository.
 There are two deadlines for this course:
 
-- Deadline: By 11:59pm on the Friday after the homework is released.
+- Deadline: By 11:59pm on the Friday the week after the homework is released.
 - Hard Deadline: By 11:59pm on the Wednesday fives days after the deadline.
 
 The precise dates will be on each homework assignment.
