@@ -67,10 +67,10 @@ toc: false
 ---
 
 - Week 8: Midterm: 9/30 - 10/4
-  - M: Abstract Syntax
+  - M: [Abstract Syntax](includes/lecture-notes/slides/10-abstract-syntax.pdf)
     - Topics: Internal representation of a PL by a compiler.  
-  - W: Introducing a small PL: miniOCaml
-    - Topics: miniOCaml is a small PL we will define and implement together.  
+    - Video: [YouTube](https://youtu.be/tdmBzqixuNk)
+  - W: Examples
   
 ---
 
@@ -78,8 +78,7 @@ toc: false
   - M: [Abstract Syntax](includes/lecture-notes/slides/10-abstract-syntax.pdf)
     - Topics: Internal representation of a PL by a compiler.  
     - Video: [YouTube](https://youtu.be/tdmBzqixuNk)
-  - W: Introducing a small PL: miniOCaml
-    - Topics: miniOCaml is a small PL we will define and implement together.  
+  - W: Class was canceled.
 
 ---
 
