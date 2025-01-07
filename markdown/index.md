@@ -2,7 +2,7 @@
 title: Syllabus
 syllabus_subtitle: Programming Languages Concepts (CSCI:3300/CSCI:5300)
 author: Harley Eades
-date:  Fall 2024
+date:  Spring 2025
 ---
 
 ## Staff
@@ -100,12 +100,6 @@ following scoring tables:
 ## Turning in Homework
 
 All homework is to be turned in via your private Git repository.
-There are two deadlines for this course:
-
-- Deadline: By 11:59pm on the Friday the week after the homework is released.
-- Hard Deadline: By 11:59pm on the Wednesday fives days after the deadline.
-
-The precise dates will be on each homework assignment.
 
 ## Course Communication
 
