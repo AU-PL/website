@@ -5,6 +5,8 @@ toc: false
 
 ## Schedule
 
+<!--
+
 ---
 
 - Week 1: 8/12 - 8/16
@@ -87,8 +89,6 @@ toc: false
   - W: Midterm Exam 
   - Project: Start Date
     - Schedule Project Meeting
-
-<!--
 
 ---
 
@@ -186,5 +186,4 @@ miniOCaml to support call-by-need.
   - T (12/10): Project Presentations (Final Exam)
 
 -->
-
 
