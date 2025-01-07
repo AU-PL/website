@@ -31,5 +31,5 @@ push: all
 	cd $(sitepath) && git add . && git commit -a -m 'Updating PL Website.' && git push	
 
 clean :
-	rm -f plweb/*.html
+	rm -f $(html_dir)/*.html
 	rm -rf $(sitepath)/*

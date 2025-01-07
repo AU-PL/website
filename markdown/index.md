@@ -82,11 +82,11 @@ programming;
 
 ## Graded Work
 
-- (40\%) 4 graded homework assignments.
+- (50\%) 5 graded homework assignments.
 
-- (30\%) A take-home midterm exam.
+- (25\%) A take-home midterm exam.
 
-- (30\%) A final project: Implementation of a Domain Specific Language
+- (25\%) A take-home final exam.
 
 No scores will be curved throughout the semester.  Please use the
 following scoring tables:
