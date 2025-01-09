@@ -3,9 +3,15 @@ title: Resources
 toc: false
 ---
 
+## Books
+
+- [OCaml Book](/plweb/includes/lecture-notes/book.pdf)
+- [PL Foundations Book](https://www.cs.cmu.edu/~rwh/pfpl/2nded.pdf)
+
 ## Homework
 
 - [A Virtual Machine for Homework](/plweb/vm.html)
+- [Lectures Repo](https://github.com/AU-PL/lectures): Examples from lecture
 
 ## Tutorials
 

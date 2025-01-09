@@ -8,14 +8,8 @@ date:  Spring 2025
 ## Staff
 
 - *Instructor:* Harley Eades III ([email me](mailto:harley.eades@gmail.com)) ([DM me](https://plauworkspace.slack.com/archives/D01HLMR6ZDK))
-- Office: UH 108
+- Office: UH 104
 - Course webpage: <https://hde.design/plweb>
-
-## Helpful Links
-
-- [Course Schedule](/plweb/lectures.html )
-- [OCaml Book](/plweb/includes/lecture-notes/book.pdf)
-- [PL Foundations Book](https://www.cs.cmu.edu/~rwh/pfpl/2nded.pdf)
 
 ## Description
 
