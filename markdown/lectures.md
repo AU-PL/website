@@ -23,37 +23,37 @@ toc: false
   - R: [Performance and Optimization of Recursive
     Functions](includes/lecture-notes/slides/performance-recursive-functions.pdf) 
     - Topics: tail call optimization, which PLs support it, and which don't.
-    - Read: Chapter 2 in OCaml Book
-    - Homework 1
+    - Read: Chapter 2 in OCaml Book    
 
 ---
 
 - Week 3: 1/20 - 1/24
-  - T: [Algebraic Datatypes: A PL Modern Marvel](includes/lecture-notes/slides/5-ADTs.pdf)
-    - Topics: ADTs, pattern matching
-    - Read: Chapter 10 of OCaml Book
-  - R: [Functional Programming: A Brief Introduction](includes/lecture-notes/slides/6-FP.pdf)
-    - Topics: lambda-abstractions, higher-order functions, combinators  
+  - T: No Class (Snow Day)
+  - R: No Class (Snow Day)
   
 ---
 
 - Week 4: 1/27 - 1/31
-  - T: [OOP in OCaml](includes/lecture-notes/slides/7-OOP.pdf)
-  - R: Rust  
+  - T: [Algebraic Datatypes: A PL Modern Marvel](includes/lecture-notes/slides/5-ADTs.pdf)
+    - Topics: ADTs, pattern matching
+    - Read: Chapter 10 of OCaml Book
+  - R: [Functional Programming: A Brief Introduction](includes/lecture-notes/slides/6-FP.pdf)
+    - Topics: lambda-abstractions, higher-order functions, combinators 
+    - Homework 1 
 
 ---
 
 - Week 5: 2/03 - 2/07
-  - T: Rust
-  - R: Rust
-    - Homework 2
+  - T: [OOP in OCaml](includes/lecture-notes/slides/7-OOP.pdf)
+  - R: Rust    
 
 ---
 
 - Week 6: 2/10 - 2/14
   - T: Rust
   - R: [Concrete Syntax](includes/lecture-notes/slides/8-concrete-syntax.pdf) / [Inductive Definitions: Inference Rules, Deductions, Logic Programming](includes/lecture-notes/slides/9-inductive-defs.pdf)
-    - Topics: concrete syntax, abstract syntax, parsing, context-free grammars, ambiguity, parse trees    
+    - Topics: concrete syntax, abstract syntax, parsing, context-free grammars, ambiguity, parse trees   
+    - Homework 2 
 
 ---
 
