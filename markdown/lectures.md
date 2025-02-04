@@ -5,7 +5,6 @@ toc: false
 
 ## Schedule
 
-
 ---
 
 - Week 1: 1/06 - 1/11
@@ -37,15 +36,16 @@ toc: false
   - T: [Algebraic Datatypes: A PL Modern Marvel](includes/lecture-notes/slides/5-ADTs.pdf)
     - Topics: ADTs, pattern matching
     - Read: Chapter 10 of OCaml Book
-  - R: [Functional Programming: A Brief Introduction](includes/lecture-notes/slides/6-FP.pdf)
-    - Topics: lambda-abstractions, higher-order functions, combinators 
+  - R: No Class
     - Homework 1 
 
 ---
 
 - Week 5: 2/03 - 2/07
-  - T: [OOP in OCaml](includes/lecture-notes/slides/7-OOP.pdf)
-  - R: Rust    
+  - T: [Functional Programming: A Brief Introduction](includes/lecture-notes/slides/6-FP.pdf)
+    - Topics: lambda-abstractions, higher-order functions, combinators 
+    - [Video](https://youtu.be/r1sEN-Mi5Yc)
+  - R: [OOP in OCaml](includes/lecture-notes/slides/7-OOP.pdf)
 
 ---
 
