@@ -45,14 +45,13 @@ toc: false
   - T: [Functional Programming: A Brief Introduction](includes/lecture-notes/slides/6-FP.pdf)
     - Topics: lambda-abstractions, higher-order functions, combinators 
     - [Video](https://youtu.be/r1sEN-Mi5Yc)
-  - R: [OOP in OCaml](includes/lecture-notes/slides/7-OOP.pdf)
+  - R: Lab Day
 
 ---
 
 - Week 6: 2/10 - 2/14
-  - T: Rust
-  - R: [Concrete Syntax](includes/lecture-notes/slides/8-concrete-syntax.pdf) / [Inductive Definitions: Inference Rules, Deductions, Logic Programming](includes/lecture-notes/slides/9-inductive-defs.pdf)
-    - Topics: concrete syntax, abstract syntax, parsing, context-free grammars, ambiguity, parse trees   
+  - T: [OOP in OCaml](includes/lecture-notes/slides/7-OOP.pdf)
+  - R: Lab Day
     - Homework 2 
 
 ---
@@ -67,7 +66,7 @@ toc: false
   - T: [Concrete Syntax](includes/lecture-notes/slides/8-concrete-syntax.pdf) / [Inductive Definitions: Inference Rules, Deductions, Logic Programming](includes/lecture-notes/slides/9-inductive-defs.pdf)
     - Topics: concrete syntax, abstract syntax, parsing, context-free grammars, ambiguity, parse trees    
     - Topics: The tool we use to specify algorithms used by a PL, and we also introduce Logic Programming.                
-  - R: Examples
+  - R: Lab Day
   
 ---
 
