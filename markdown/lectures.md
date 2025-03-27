@@ -97,14 +97,8 @@ toc: false
 ---
 
 - Week 12: 3/24 - 3/28
-  - T: Parametric Polymorphism (Generics)
-    - Topics: The definition of polymorphism or commonly called
-      generics will be discussed. We will add polymorphism to
-      miniOCaml as an example. 
-  - R: Data Abstraction: The first step to object orientation.
-    - Topics: The use of existential types to hide data in a type safe
-      way is discussed.  We will add existential types to miniOCaml as
-      an example.  
+  - T: [Static & Dynamics](includes/lecture-notes/slides/11-static-dynamics.pdf)
+  - R: [Static & Dynamics](includes/lecture-notes/slides/11-static-dynamics.pdf)
     - Homework 4
     
 ---
