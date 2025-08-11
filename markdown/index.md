@@ -2,7 +2,7 @@
 title: Syllabus
 syllabus_subtitle: Programming Languages Concepts (CSCI:3300/CSCI:5300)
 author: Harley Eades
-date:  Spring 2025
+date:  Fall 2025
 ---
 
 ## Staff
@@ -72,7 +72,6 @@ programming;
   new programming language which uses a paradigm they may not have
   programmed in before.  We will use this programming language to
   complete the assignments in this course.
-
 
 ## Graded Work
 
