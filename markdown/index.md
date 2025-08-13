@@ -7,7 +7,7 @@ date:  Fall 2025
 
 ## Staff
 
-- *Instructor:* Harley Eades III ([email me](mailto:harley.eades@gmail.com)) ([DM me](https://plauworkspace.slack.com/archives/D01HLMR6ZDK))
+- *Instructor:* Harley Eades III ([email me](mailto:heades@augusta.edu)) ([DM me](https://plauworkspace.slack.com/archives/D01HLMR6ZDK))
 - Office: UH 104
 - Course webpage: <https://hde.design/plweb>
 
