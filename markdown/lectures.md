@@ -9,19 +9,16 @@ toc: false
 
 - Week 1: 8/11 - 8/13
   - T: [Introduction to the Course](includes/lecture-notes/slides/1-introduction-to-the-course.pdf)
-  - R: Homework Demo and [Names, Functions, Types](includes/lecture-notes/slides/2-names-functions-and-types.pdf)
-    - Read: Chapter 2 in OCaml Book
-    - Topics: Syntax design of PLs, basic functions and types in OCaml.
+  - R: Homework Demo
 
 ---
 
 - Week 2: 8/18 - 8/20
-  - T: [Recursive Functions and their Evaluation](includes/lecture-notes/slides/3-recursive-functions-act-records.pdf)
-    - Topics: Evaluation of recursive functions using activation records.
+  - T: [Concrete Syntax](includes/lecture-notes/slides/8-concrete-syntax.pdf) 
+    - Topics: concrete syntax, abstract syntax, parsing, context-free grammars, ambiguity, parse trees    
+  - R: [Names, Functions, Types](includes/lecture-notes/slides/2-names-functions-and-types.pdf)
     - Read: Chapter 2 in OCaml Book
-  - R: [Performance and Optimization of Recursive Functions](includes/lecture-notes/slides/performance-recursive-functions.pdf) 
-    - Topics: tail call optimization, which PLs support it, and which don't.
-    - Read: Chapter 2 in OCaml Book    
+    - Topics: Syntax design of PLs, basic functions and types in OCaml.
 
 ---
 
@@ -58,8 +55,7 @@ toc: false
 ---
 
 - Week 7: 9/22 - 9/24
-  - T: [Concrete Syntax](includes/lecture-notes/slides/8-concrete-syntax.pdf) 
-    - Topics: concrete syntax, abstract syntax, parsing, context-free grammars, ambiguity, parse trees    
+  - T: TBA
   - R: [Inductive Definitions: Inference Rules, Deductions, Logic Programming](includes/lecture-notes/slides/9-inductive-defs.pdf)    
     - Topics: The tool we use to specify algorithms used by a PL, and we also introduce Logic Programming.                
   
