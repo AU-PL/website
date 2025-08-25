@@ -126,14 +126,21 @@ telling Git about your revisions.
 
   The revision history also records your email.  Set this to your AU
   email address.
-  
-This completes the Git basic setup.
+
+  ## Setting up SSH Keys for Github
+  Github has disabled username and password authentication when working with
+  your git repositories. Following these directions to setup SSH-key
+  authentication on your Github account:
+  1. Generate a new SSH key on your system (do this in WSL):
+     [Directions](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+  2. Add the newly generate key to your Github account:
+     [Directions](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 
 ## Cloning your repo
 
-__At this point you have emailed me with your
-[Github](https://www.github.com ) login and I have replied with the
-link to your Git repo.  If not, then please do this step first.__
+__At this point you have emailed me with your__
+__[Github](https://www.github.com ) login and I have replied with the__
+__link to your Git repo.  If not, then please do this step first.__
 
 Now we will __clone__ your repo that I have created for you, and that
 is hosted on Github, to your computer so that you can use it.  
@@ -316,7 +323,19 @@ This will install a graphical interface for docker as well as the commandline. I
 will be using the commandline here, and I will only support the commandline. If
 you use the graphical interface, then that's up to you to figure out. 
 
-Make sure to open the Docker Desktop to finish installation.
+There are a couple of different installers for Docker. Select the from the ones
+below based on your operating system and CPU:
+
+- Windows running on Intel and AMD, choose the AMD64.
+- Windows running on ARM64, choose ARM64.
+- Mac running on Intel, choose Intel Chip.
+- Mac running on Apple Silicon, choose Apple Silicon.
+- Linux, choose "Download for Linux".
+
+Make sure to open the Docker Desktop to finish installation. 
+
+**Note: Docker Desktop needs to be running whenever you use Docker on the**
+**commandline. If it is closed, the commands may not work.**
 
 After installation, open a terminal (Windows the WSL terminal), and type the
 following command:
