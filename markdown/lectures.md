@@ -8,21 +8,21 @@ toc: false
 ---
 
 - Week 1: 8/11 - 8/13
-  - M: [Introduction to the Course](includes/lecture-notes/slides/1-introduction-to-the-course.pdf)
+  - M: [Introduction to the Course](includes/lecture-notes/slides/introduction-to-the-course.pdf)
   - W: Homework Demo
 
 ---
 
 - Week 2: 8/18 - 8/20
-  - M: [Concrete Syntax](includes/lecture-notes/slides/8-concrete-syntax.pdf) 
+  - M: [Concrete Syntax](includes/lecture-notes/slides/concrete-syntax.pdf) 
   - W: [Names, Functions, Types](includes/lecture-notes/slides/2-names-functions-and-types.pdf)
     - Read: Chapter 2 in OCaml Book
 
 ---
 
 - Week 3: 8/25 - 8/27
-  - M: [Inductive Definitions](includes/lecture-notes/slides/4-Inductive-Definitions.pdf) 
-  - W: [Abstract Syntax](includes/lecture-notes/slides/5-Abstract-Syntax.pdf)
+  - M: [Inductive Definitions](includes/lecture-notes/slides/Inductive-Definitions.pdf) 
+  - W: [Abstract Syntax](includes/lecture-notes/slides/Abstract-Syntax.pdf)
 
 ---
 
