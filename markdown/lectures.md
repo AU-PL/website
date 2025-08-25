@@ -15,16 +15,14 @@ toc: false
 
 - Week 2: 8/18 - 8/20
   - M: [Concrete Syntax](includes/lecture-notes/slides/8-concrete-syntax.pdf) 
-    - Topics: concrete syntax, abstract syntax, parsing, context-free grammars, ambiguity, parse trees    
   - W: [Names, Functions, Types](includes/lecture-notes/slides/2-names-functions-and-types.pdf)
     - Read: Chapter 2 in OCaml Book
-    - Topics: Syntax design of PLs, basic functions and types in OCaml.
 
 ---
 
 - Week 3: 8/25 - 8/27
-  - M: TBA
-  - W: TBA
+  - M: [Inductive Definitions](includes/lecture-notes/slides/4-Inductive-Definitions.pdf) 
+  - W: [Abstract Syntax](includes/lecture-notes/slides/5-Abstract-Syntax.pdf)
 
 ---
 
