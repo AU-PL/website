@@ -28,13 +28,13 @@ toc: false
 
 - Week 4: 9/1 - 9/3
   - M: No Class (Labor Day)
-  - W: TBA
+  - W: Examples Day
 
 ---
 
 - Week 5: 9/8 - 9/10
-  - M: TBA
-  - W: TBA
+  - M: [Algebraic Datatypes](includes/lecture-notes/slides/ADTs.pdf)
+  - W: Class Cancelled
 
 ---
 
@@ -45,26 +45,27 @@ toc: false
 ---
 
 - Week 7: 9/22 - 9/24
-  - M: TBA
-  - W: TBA
+  - M: Went over the midterm exam
+  - W: Class Cancelled
   
 ---
 
 - Week 8: 9/28 - 10/1
-  - M: TBA
-  - W: TBA
+  - M: [Tail Call Optimization](includes/lecture-notes/slides/performance-optimization-recursive-functions.pdf)
+    - [Video](https://youtu.be/pPyWuVuyOO8)
+  - W: [Functional Programming](includes/lecture-notes/slides/FP.pdf)
 
 ---
 
 - Week 9: 10/6 - 10/8
-  - M: TBA
-  - W: TBA
+  - M: OOP
+  - W: OOP
 
 ---
 
 - Week 10: 10/13 - 10/15
-  - M: TBA
-  - W: TBA
+  - M: Static & Dynamic Semantics
+  - W: Static & Dynamic Semantics
 
 ---
 
