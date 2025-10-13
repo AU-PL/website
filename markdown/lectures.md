@@ -58,20 +58,20 @@ toc: false
 ---
 
 - Week 9: 10/6 - 10/8
-  - M: OOP
-  - W: OOP
+  - M: [Functional Programming](includes/lecture-notes/slides/FP.pdf)
+  - W: [Functional Programming](includes/lecture-notes/slides/FP.pdf)
 
 ---
 
 - Week 10: 10/13 - 10/15
-  - M: Static & Dynamic Semantics
-  - W: Static & Dynamic Semantics
+  - M: [Static & Dynamic Semantics](includes/lecture-notes/slides/static-dynamics.pdf)
+  - W: [Static & Dynamic Semantics](includes/lecture-notes/slides/static-dynamics.pdf)
 
 ---
 
 - Week 11: 10/20 - 10/22
-  - M: TBA
-  - W: TBA
+  - M: OOP
+  - W: OOP
     
 ---
 
