@@ -65,18 +65,18 @@ toc: false
 
 - Week 10: 10/13 - 10/15
   - M: [Static & Dynamic Semantics](includes/lecture-notes/slides/static-dynamics.pdf)
-  - W: [Static & Dynamic Semantics](includes/lecture-notes/slides/static-dynamics.pdf)
+  - W: Class was canceled
 
 ---
 
 - Week 11: 10/20 - 10/22
-  - M: OOP
-  - W: OOP
+  - M: [Static & Dynamic Semantics](includes/lecture-notes/slides/static-dynamics.pdf)
+  - W: [Static & Dynamic Semantics](includes/lecture-notes/slides/static-dynamics.pdf)
     
 ---
 
 - Week 12: 10/27 - 10/29
-  - M: TBA       
+  - M: OOP
   - W: TBA
 
 ---
