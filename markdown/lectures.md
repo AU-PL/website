@@ -76,8 +76,8 @@ toc: false
 ---
 
 - Week 12: 10/27 - 10/29
-  - M: OOP
-  - W: TBA
+  - M: [OOP Part 1: Pairs](includes/lecture-notes/slides/OOP.pdf)
+  - W: [OOP Part 2: Unit Types](includes/lecture-notes/slides/OOP.pdf)
 
 ---
 
