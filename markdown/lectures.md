@@ -82,26 +82,26 @@ toc: false
 ---
 
 - Week 13: 11/3 - 11/5
-  - M: TBA
-  - W: TBA
+  - M: [OOP Part 3: Tuples](includes/lecture-notes/slides/OOP.pdf)
+  - W: [OOP Part 4: Records](includes/lecture-notes/slides/OOP.pdf)
 
 ---
 
 - Week 14: 11/10 - 11/12
-  - M: TBA
-  - W: TBA
+  - M: [OOP Part 5: Mutable References](includes/lecture-notes/slides/OOP.pdf)
+  - W: [OOP Part 5: Mutable References](includes/lecture-notes/slides/OOP.pdf)
 
 ---
 
 - Week 15: 11/17 - 11/19
-  - M: TBA
-  - W: TBA
+  - M: [OOP Part 6: Subtyping](includes/lecture-notes/slides/OOP.pdf)
+  - W: [OOP Part 6: Subtyping](includes/lecture-notes/slides/OOP.pdf)
     
 ---
 
 - Week 16: 11/24 - 11/26
-  - M: TBA
-  - W: TBA
+  - M: [OOP Part 7: Imperative Objects](includes/lecture-notes/slides/OOP.pdf)
+  - W: [OOP Part 7: Imperative Objects](includes/lecture-notes/slides/OOP.pdf)
 
 --
 
