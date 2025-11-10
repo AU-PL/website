@@ -88,7 +88,7 @@ toc: false
 ---
 
 - Week 14: 11/10 - 11/12
-  - M: [OOP Part 5: Mutable References](includes/lecture-notes/slides/OOP.pdf)
+  - M: [OOP Part 4: Records](includes/lecture-notes/slides/OOP.pdf)
   - W: [OOP Part 5: Mutable References](includes/lecture-notes/slides/OOP.pdf)
 
 ---
