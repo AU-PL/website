@@ -101,7 +101,7 @@ toc: false
 
 - Week 16: 11/24 - 11/26
   - M: [OOP Part 7: Imperative Objects](includes/lecture-notes/slides/OOP.pdf)
-  - W: [OOP Part 7: Imperative Objects](includes/lecture-notes/slides/OOP.pdf)
+  - W: No Class (Thanksgiving Break)
 
 ---
 
