@@ -10,7 +10,7 @@ toc: false
 ## Books
 
 - [OCaml Book](/plweb/includes/lecture-notes/book.pdf)
-- [PL Foundations Book](https://www.cs.cmu.edu/~rwh/pfpl/2nded.pdf)
+- [Types and PL](/plweb/includes/book.pdf)
 
 ## Homework
 
