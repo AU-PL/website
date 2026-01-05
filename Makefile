@@ -33,7 +33,7 @@ watch :
 	find $(md_dir) | entr -c 'make'
 
 push: all
-	~/PL/scripts/commit-local-changes.sh	
+	~/teaching/PL/scripts/commit-local-changes.sh	
 	cp -vR $(site_html_dir)/* $(sitepath)
 	cd $(notespath) && make
 	cd $(sitepath) && git add . && git commit -a -m 'Updating PL Website.' && git push	

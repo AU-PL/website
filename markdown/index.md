@@ -1,8 +1,8 @@
 ---
 title: Syllabus
-syllabus_subtitle: Programming Languages Concepts (CSCI:3300/CSCI:5300)
+syllabus_subtitle: Programming Languages Concepts CSCI:3300
 author: Harley Eades
-date:  Fall 2025
+date:  Spring 2026
 ---
 
 ## Staff
@@ -75,14 +75,14 @@ programming;
 
 ## Graded Work
 
-- (50\%) 5 graded homework assignments.
+- (40\%) 5 graded homework assignments.
 
-- (25\%) A take-home midterm exam.
+- (30\%) An **in class** midterm exam.
 
-- (25\%) A take-home final exam.
+- (30\%) An **in class** final exam.
 
-No scores will be curved throughout the semester.  Please use the
-following scoring tables:
+No scores will be curved throughout the semester.  Please use the following
+scoring tables:
 
   + A : $88\% - 100\%$
   + B : $78\% - 87\%$

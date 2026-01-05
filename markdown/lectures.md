@@ -7,105 +7,112 @@ toc: false
 
 ---
 
-- Week 1: 8/11 - 8/13
+- Week 1: 01/05 - 01/09
   - M: [Introduction to the Course](includes/lecture-notes/slides/introduction-to-the-course.pdf)
   - W: Homework Demo
 
 ---
 
-- Week 2: 8/18 - 8/20
+- Week 2: 01/12 - 01/16
   - M: [Concrete Syntax](includes/lecture-notes/slides/concrete-syntax.pdf) 
   - W: [Names, Functions, Types](includes/lecture-notes/slides/2-names-functions-and-types.pdf)
     - Read: Chapter 2 in OCaml Book
 
 ---
 
-- Week 3: 8/25 - 8/27
-  - M: [Inductive Definitions](includes/lecture-notes/slides/Inductive-Definitions.pdf) 
-  - W: [Abstract Syntax](includes/lecture-notes/slides/Abstract-Syntax.pdf)
+- Week 3: 01/19 - 01/23
+  - M: No Class (MLK Jr. Day)
+  - W: [Inductive Definitions](includes/lecture-notes/slides/Inductive-Definitions.pdf) 
 
 ---
 
-- Week 4: 9/1 - 9/3
-  - M: No Class (Labor Day)
+- Week 4: 01/26 - 01/30
+  - M: [Abstract Syntax](includes/lecture-notes/slides/Abstract-Syntax.pdf)
+  - W: [Algebraic Datatypes](includes/lecture-notes/slides/ADTs.pdf)
+
+---
+
+- Week 5: 02/02 - 02/06
+  - M: [Tail Call Optimization](includes/lecture-notes/slides/performance-optimization-recursive-functions.pdf)
+  - W: [Functional Programming](includes/lecture-notes/slides/FP.pdf)
+
+---
+
+- Week 6: 02/09 - 02/13 
+  - M: [Functional Programming](includes/lecture-notes/slides/FP.pdf)
   - W: Examples Day
 
 ---
 
-- Week 5: 9/8 - 9/10
-  - M: [Algebraic Datatypes](includes/lecture-notes/slides/ADTs.pdf)
-  - W: Class Cancelled
-
----
-
-- Week 6: 9/15 - 9/17 
-  - M: No Class (Midterm Exam)  
-  - W: No Class (Midterm Exam)  
-
----
-
-- Week 7: 9/22 - 9/24
-  - M: Went over the midterm exam
-  - W: Class Cancelled
+- Week 7: 02/16 - 02/20
+  - M: Examples Day
+  - W: Midterm Exam
   
 ---
 
-- Week 8: 9/28 - 10/1
-  - M: [Tail Call Optimization](includes/lecture-notes/slides/performance-optimization-recursive-functions.pdf)
-    - [Video](https://youtu.be/pPyWuVuyOO8)
-  - W: [Functional Programming](includes/lecture-notes/slides/FP.pdf)
-
----
-
-- Week 9: 10/6 - 10/8
-  - M: [Functional Programming](includes/lecture-notes/slides/FP.pdf)
-  - W: [Functional Programming](includes/lecture-notes/slides/FP.pdf)
-
----
-
-- Week 10: 10/13 - 10/15
-  - M: [Static & Dynamic Semantics](includes/lecture-notes/slides/static-dynamics.pdf)
-  - W: Class was canceled
-
----
-
-- Week 11: 10/20 - 10/22
+- Week 8: 02/23 - 02/27
   - M: [Static & Dynamic Semantics](includes/lecture-notes/slides/static-dynamics.pdf)
   - W: [Static & Dynamic Semantics](includes/lecture-notes/slides/static-dynamics.pdf)
+
+---
+
+- Week 9: 03/02 - 03/06
+  - M: [Static & Dynamic Semantics](includes/lecture-notes/slides/static-dynamics.pdf)
+  - T: **Last day to drop with a 'W'**
+  - W: [OOP Part 1: Pairs](includes/lecture-notes/slides/OOP.pdf)
+
+---
+
+- Week 10: 03/09 - 03/13
+  - M: [OOP Part 2: Unit Types](includes/lecture-notes/slides/OOP.pdf)
+  - W: [OOP Part 3: Tuples](includes/lecture-notes/slides/OOP.pdf)
+
+---
+
+- Week 11: 03/16 - 03/20
+  - M: [OOP Part 4: Records](includes/lecture-notes/slides/OOP.pdf)
+  - W: [OOP Part 4: Records](includes/lecture-notes/slides/OOP.pdf)
     
 ---
 
-- Week 12: 10/27 - 10/29
-  - M: [OOP Part 1: Pairs](includes/lecture-notes/slides/OOP.pdf)
-  - W: [OOP Part 2: Unit Types](includes/lecture-notes/slides/OOP.pdf)
+- Week 12: 03/23 - 03/27
+  - M: [OOP Part 5: Mutable References](includes/lecture-notes/slides/OOP.pdf)
+  - W: [OOP Part 6: Subtyping](includes/lecture-notes/slides/OOP.pdf)
 
 ---
 
-- Week 13: 11/3 - 11/5
-  - M: [OOP Part 3: Tuples](includes/lecture-notes/slides/OOP.pdf)
-  - W: [OOP Part 4: Records](includes/lecture-notes/slides/OOP.pdf)
+- Week 13: 03/30 - 04/03
+  - M: [OOP Part 6: Subtyping](includes/lecture-notes/slides/OOP.pdf)
+  - W: [OOP Part 7: Imperative Objects](includes/lecture-notes/slides/OOP.pdf)
 
 ---
 
 - Week 14: 11/10 - 11/12
-  - M: [OOP Part 4: Records](includes/lecture-notes/slides/OOP.pdf)
-  - W: [OOP Part 5: Mutable References](includes/lecture-notes/slides/OOP.pdf)
+  - M: [OOP Part 7: Imperative Objects](includes/lecture-notes/slides/OOP.pdf)
+  - W: [OOP Part 7: Imperative Objects](includes/lecture-notes/slides/OOP.pdf)
 
 ---
 
-- Week 15: 11/17 - 11/19
-  - M: [OOP Part 6: Subtyping](includes/lecture-notes/slides/OOP.pdf)
-  - W: [OOP Part 6: Subtyping](includes/lecture-notes/slides/OOP.pdf)
+- Week 15: 04/06 - 04/10
+  - M: No Class (Spring Break)
+  - W: No Class (Spring Break)
     
 ---
 
-- Week 16: 11/24 - 11/26
-  - M: [OOP Part 7: Imperative Objects](includes/lecture-notes/slides/OOP.pdf)
-  - W: No Class (Thanksgiving Break)
+- Week 16: 04/14 - 04/17
+  - M: TBA
+  - W: TBA
 
 ---
 
-- Week 18: 12/1 - 12/3
-  - M: No Class (Final Exam Released)
-  - W: No Class 
+- Week 18: 04/20 - 04/24
+  - M: TBA
+  - W: TBA
 
+- Week 19: 04/27 - 05/01
+  - M: TBA
+  - W: TBA
+  - R: **Reading Day**
+
+- Week 20: 05/04 - 05/08
+  - Thursday, May 7: (2pm-4pm) Final Exam
