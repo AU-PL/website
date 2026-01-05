@@ -22,7 +22,8 @@ toc: false
 
 - Week 3: 01/19 - 01/23
   - M: No Class (MLK Jr. Day)
-  - W: [Inductive Definitions](includes/lecture-notes/slides/Inductive-Definitions.pdf) 
+  - W: [Inductive Definitions](includes/lecture-notes/slides/Inductive-Definitions.pdf)     
+    - HWK 1: Released
 
 ---
 
@@ -35,6 +36,7 @@ toc: false
 - Week 5: 02/02 - 02/06
   - M: [Tail Call Optimization](includes/lecture-notes/slides/performance-optimization-recursive-functions.pdf)
   - W: [Functional Programming](includes/lecture-notes/slides/FP.pdf)
+    - HWK 2: Released
 
 ---
 
@@ -52,7 +54,7 @@ toc: false
 
 - Week 8: 02/23 - 02/27
   - M: [Static & Dynamic Semantics](includes/lecture-notes/slides/static-dynamics.pdf)
-  - W: [Static & Dynamic Semantics](includes/lecture-notes/slides/static-dynamics.pdf)
+  - W: [Static & Dynamic Semantics](includes/lecture-notes/slides/static-dynamics.pdf)    
 
 ---
 
@@ -66,6 +68,7 @@ toc: false
 - Week 10: 03/09 - 03/13
   - M: [OOP Part 2: Unit Types](includes/lecture-notes/slides/OOP.pdf)
   - W: [OOP Part 3: Tuples](includes/lecture-notes/slides/OOP.pdf)
+    - HWK 3: Released
 
 ---
 
@@ -84,6 +87,7 @@ toc: false
 - Week 13: 03/30 - 04/03
   - M: [OOP Part 6: Subtyping](includes/lecture-notes/slides/OOP.pdf)
   - W: [OOP Part 7: Imperative Objects](includes/lecture-notes/slides/OOP.pdf)
+    - HWK 4: Released
 
 ---
 
@@ -102,6 +106,7 @@ toc: false
 - Week 16: 04/14 - 04/17
   - M: TBA
   - W: TBA
+    - HWK 5: Released
 
 ---
 
