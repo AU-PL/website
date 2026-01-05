@@ -91,33 +91,30 @@ toc: false
 
 ---
 
-- Week 14: 11/10 - 11/12
+- Week 14: 04/06 - 04/10
   - M: [OOP Part 7: Imperative Objects](includes/lecture-notes/slides/OOP.pdf)
   - W: [OOP Part 7: Imperative Objects](includes/lecture-notes/slides/OOP.pdf)
 
 ---
 
-- Week 15: 04/06 - 04/10
+- Week 15: 04/14 - 04/17
   - M: No Class (Spring Break)
   - W: No Class (Spring Break)
     
 ---
 
-- Week 16: 04/14 - 04/17
+- Week 16: 04/20 - 04/24
   - M: TBA
   - W: TBA
     - HWK 5: Released
 
 ---
 
-- Week 18: 04/20 - 04/24
-  - M: TBA
-  - W: TBA
-
-- Week 19: 04/27 - 05/01
+- Week 18: 04/27 - 05/01
   - M: TBA
   - W: TBA
   - R: **Reading Day**
 
-- Week 20: 05/04 - 05/08
+- Week 19: 05/04 - 05/08
   - Thursday, May 7: (2pm-4pm) Final Exam
+
