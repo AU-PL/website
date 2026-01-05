@@ -115,6 +115,8 @@ toc: false
   - W: TBA
   - R: **Reading Day**
 
+---
+
 - Week 19: 05/04 - 05/08
   - Thursday, May 7: (2pm-4pm) Final Exam
 
