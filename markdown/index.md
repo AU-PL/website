@@ -53,7 +53,13 @@ Topics include:
 
 ## Office Hours
 
-Office hours will be held virtually by appointment.  Please schedule using Slack.
+- MW: 2:15pm - 3:15pm at the Cyber Center. 
+  - I'll be sitting somewhere in the building, just walk around until you find
+    me; most likely the first floor.
+- Appointments:
+  - Virtually
+  - In person
+  - Please schedule using Slack.
 
 ## Course Goals
 
