@@ -28,32 +28,33 @@ toc: false
 ---
 
 - Week 4: 01/26 - 01/30
-  - M: [Abstract Syntax](includes/lecture-notes/slides/Abstract-Syntax.pdf)
-  - W: [Algebraic Datatypes](includes/lecture-notes/slides/ADTs.pdf)
+  - M: Class canceled (weather)
+  - W: [Abstract Syntax](includes/lecture-notes/slides/Abstract-Syntax.pdf)
 
 ---
 
 - Week 5: 02/02 - 02/06
-  - M: [Tail Call Optimization](includes/lecture-notes/slides/performance-optimization-recursive-functions.pdf)
+  - M: Class canceled (weather)
+  - W: [Tail Call Optimization](includes/lecture-notes/slides/performance-optimization-recursive-functions.pdf)
+       and [Algebraic Datatypes](includes/lecture-notes/slides/ADTs.pdf)
+
+---
+
+- Week 6: 02/09 - 02/13 
+  - M: [Functional Programming](includes/lecture-notes/slides/FP.pdf)    
   - W: [Functional Programming](includes/lecture-notes/slides/FP.pdf)
     - HWK 2: Released
 
 ---
 
-- Week 6: 02/09 - 02/13 
-  - M: [Functional Programming](includes/lecture-notes/slides/FP.pdf)
-  - W: Examples Day
-
----
-
 - Week 7: 02/16 - 02/20
   - M: Examples Day
-  - W: Midterm Exam
+  - W: Examples Day
   
 ---
 
 - Week 8: 02/23 - 02/27
-  - M: [Static & Dynamic Semantics](includes/lecture-notes/slides/static-dynamics.pdf)
+  - M: Midterm Exam
   - W: [Static & Dynamic Semantics](includes/lecture-notes/slides/static-dynamics.pdf)    
 
 ---
