@@ -9,6 +9,7 @@ date:  Spring 2026
 
 - *Instructor:* Harley Eades III ([email me](mailto:heades@augusta.edu)) ([DM me](https://plauworkspace.slack.com/archives/D01HLMR6ZDK))
 - Office: UH 104
+- Schedule Meeting: [Calendly Link](https://calendly.com/heades-augusta/office-hours)
 - Course webpage: <https://hde.design/plweb>
 
 ## Description
