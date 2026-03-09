@@ -60,40 +60,40 @@ toc: false
 ---
 
 - Week 9: 03/02 - 03/06
-  - M: [Static & Dynamic Semantics](includes/lecture-notes/slides/static-dynamics.pdf)
+  - M: Went over midterm
   - T: **Last day to drop with a 'W'**
-  - W: [OOP Part 1: Pairs](includes/lecture-notes/slides/OOP.pdf)
+  - W: Fall Pause
 
 ---
 
 - Week 10: 03/09 - 03/13
-  - M: [OOP Part 2: Unit Types](includes/lecture-notes/slides/OOP.pdf)
-  - W: [OOP Part 3: Tuples](includes/lecture-notes/slides/OOP.pdf)
+  - M: [Static & Dynamic Semantics](includes/lecture-notes/slides/static-dynamics.pdf)
+  - W: [OOP Part 1: Pairs](includes/lecture-notes/slides/OOP.pdf)
     - HWK 3: Released
 
 ---
 
 - Week 11: 03/16 - 03/20
-  - M: [OOP Part 4: Records](includes/lecture-notes/slides/OOP.pdf)
-  - W: [OOP Part 4: Records](includes/lecture-notes/slides/OOP.pdf)
+  - M: [OOP Part 2: Unit Types](includes/lecture-notes/slides/OOP.pdf)
+  - W: [OOP Part 3: Tuples](includes/lecture-notes/slides/OOP.pdf)
     
 ---
 
 - Week 12: 03/23 - 03/27
-  - M: [OOP Part 5: Mutable References](includes/lecture-notes/slides/OOP.pdf)
-  - W: [OOP Part 6: Subtyping](includes/lecture-notes/slides/OOP.pdf)
+  - M: [OOP Part 4: Records](includes/lecture-notes/slides/OOP.pdf)
+  - W: [OOP Part 4: Records](includes/lecture-notes/slides/OOP.pdf)
 
 ---
 
 - Week 13: 03/30 - 04/03
-  - M: [OOP Part 6: Subtyping](includes/lecture-notes/slides/OOP.pdf)
-  - W: [OOP Part 7: Imperative Objects](includes/lecture-notes/slides/OOP.pdf)
+  - M: [OOP Part 5: Mutable References](includes/lecture-notes/slides/OOP.pdf)
+  - W: [OOP Part 6: Subtyping](includes/lecture-notes/slides/OOP.pdf)
     - HWK 4: Released
 
 ---
 
 - Week 14: 04/06 - 04/10
-  - M: [OOP Part 7: Imperative Objects](includes/lecture-notes/slides/OOP.pdf)
+  - M: [OOP Part 6: Subtyping](includes/lecture-notes/slides/OOP.pdf)
   - W: [OOP Part 7: Imperative Objects](includes/lecture-notes/slides/OOP.pdf)
 
 ---
@@ -105,8 +105,8 @@ toc: false
 ---
 
 - Week 16: 04/20 - 04/24
-  - M: TBA
-  - W: TBA
+  - M: [OOP Part 7: Imperative Objects](includes/lecture-notes/slides/OOP.pdf)
+  - W: [OOP Part 7: Imperative Objects](includes/lecture-notes/slides/OOP.pdf)
     - HWK 5: Released
 
 ---
